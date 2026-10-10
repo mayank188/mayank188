@@ -1,45 +1,256 @@
-<h1 align="center">Hi 👋, I'm Mayank Soam</h1>
-<h3 align="center">A passionate Web Developer and Computer Science student from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Mayank+Soam;Computer+Science+Student;Full-Stack+Developer+in+Progress;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank188&label=Profile%20views&color=0e75b6&style=flat" alt="mayank188" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayank188&label=Profile%20Views&color=00D9FF&style=flat-square&labelColor=1a1a2e" alt="Profile Views Counter" />
+  &nbsp;&nbsp;
+  <a href="https://github.com/mayank188?tab=followers"><img src="https://img.shields.io/github/followers/mayank188?label=Followers&style=flat-square&color=00D9FF&labelColor=1a1a2e" alt="GitHub Followers" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/mayank188?tab=repositories"><img src="https://img.shields.io/badge/Repositories-25+-00D9FF?style=flat-square&labelColor=1a1a2e" alt="Repositories Count" /></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank188" alt="mayank188" /></a> </p>
+<hr style="border: 1px solid #00D9FF; margin: 20px 0;" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Github-Analyser](https://github.com/mayank188/Github-Analyser-)
+## 🎯 About Me
 
-- 🌱 I’m currently learning **Node.js,Express, REST APIs, and Full-Stack Web Development.**
+<img align="right" alt="Code" width="300" src="https://raw.githubusercontent.com/mayank188/mayank188/main/coding.gif" />
 
-- 👯 I’m looking to collaborate on [Github-Analyser](https://github.com/mayank188/Github-Analyser-)
+I'm a **Computer Science student** from India with a passion for **web development** and **full-stack application design**. I enjoy transforming creative ideas into real-world, functional projects and collaborating with the open-source community.
 
-- 🤝 I’m looking for help with [Github-Analyser](https://github.com/mayank188/Github-Analyser-)
+**Currently Working On:**
+- 🔭 **[Github-Analyser](https://github.com/mayank188/Github-Analyser-)** — A GitHub analytics and repository visualization tool
+- 📚 **Full-Stack Web Development** — Building modern, scalable applications with React.js and Node.js
+- 🚀 **Problem-Solving** — DSA and competitive programming challenges
 
-- 👨‍💻 All of my projects are available at [https://github.com/mayank188](https://github.com/mayank188)
+**What I'm Learning:**
+- 🌱 Advanced Node.js and Express.js patterns
+- 🌱 REST API architecture and design
+- 🌱 Full-stack development workflows
+- 🌱 Database optimization (SQL and NoSQL)
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, React.js, Next.js,Tailwind CSS, Git, and GitHub**
+**My Philosophy:**
+> "Code is the art of turning ideas into reality. Every line has a purpose."
 
-- 📫 How to reach me **mayanksom36@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lJctcco1CMPHUm4f0MvJJn6mWsYiRlKz/view?usp=sharing](https://drive.google.com/file/d/1lJctcco1CMPHUm4f0MvJJn6mWsYiRlKz/view?usp=sharing)
+## 📊 GitHub Analytics Dashboard
 
-- ⚡ Fun fact **I love turning creative ideas into real-world projects!**
+<div align="center">
+  <h3>📈 GitHub Statistics</h3>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mayank-soam-b68946339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-soam-b68946339" height="30" width="40" /></a>
-<a href="https://instagram.com/soam_mayank_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soam_mayank_67" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/colony_echo_58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="colony_echo_58" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mayanksom36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mayanksom36" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mayank_soam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank_soam" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/mayank523e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/mayank523e" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <a href="https://github.com/mayank188">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayank188&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mayank188">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank188&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <h3>🔥 Contribution Streak</h3>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank188&show_icons=true&locale=en&layout=compact" alt="mayank188" /></p>
+<div align="center">
+  <a href="https://github.com/mayank188">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank188&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank188&show_icons=true&locale=en" alt="mayank188" /></p>
+<div align="center">
+  <h3>🏆 GitHub Achievements</h3>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank188&" alt="mayank188" /></p>
+<div align="center">
+  <a href="https://github.com/mayank188">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayank188&theme=radical&no-frame=true&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>📅 Contribution Graph</h3>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank188&theme=radical&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+  <h3>🚀 Showcase of My Work</h3>
+</div>
+
+### 1. **Github-Analyser** 📊
+> Analyze GitHub repositories, visualize analytics, and extract meaningful insights
+
+| Aspect | Details |
+|--------|---------|
+| **Repository** | [mayank188/Github-Analyser-](https://github.com/mayank188/Github-Analyser-) |
+| **Technologies** | React.js, JavaScript, GitHub API, Data Visualization |
+| **Description** | A comprehensive tool to analyze GitHub repositories, display user statistics, repository insights, and contribution patterns |
+| **Status** | 🟢 In Active Development |
+| **Features** | Repository metrics, User analytics, Trending insights |
+
+---
+
+<div align="center">
+  <i>⭐ For more projects, visit my <a href="https://github.com/mayank188?tab=repositories">repositories</a></i>
+</div>
+
+---
+
+## 🛠️ Skills & Technology Stack
+
+<div align="center">
+  <h3>💻 Languages</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+</div>
+
+<div align="center">
+  <h3>🎨 Frontend Development</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+
+<div align="center">
+  <h3>⚙️ Backend & Databases</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</div>
+
+<div align="center">
+  <h3>🛠️ Tools & Platforms</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+</div>
+
+<div align="center">
+  <h3>🎨 Design & Multimedia</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+</div>
+
+<div align="center">
+  <h3>🔧 IoT & Hardware</h3>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</div>
+
+**Note:** Badges above represent technologies I actively use. Skills marked as learning are highlighted in my resume and project experience.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <h3>📱 Social & Professional Profiles</h3>
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/mayank-soam-b68946339" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mayank188" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:mayanksom36@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://instagram.com/soam_mayank_67" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<div align="center">
+  <h3>🏆 Coding Profiles</h3>
+</div>
+
+<div align="center">
+  <a href="https://www.codechef.com/users/colony_echo_58" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.hackerrank.com/mayanksom36" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/mayank_soam" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/mayank523e" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</div>
+
+---
+
+## 📄 Additional Resources
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1lJctcco1CMPHUm4f0MvJJn6mWsYiRlKz/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://github.com/mayank188?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" />
+  </a>
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🚀 **Passion:** Turning creative ideas into real-world, functional projects
+- 💡 **Philosophy:** Clean code, scalable architecture, and continuous learning
+- 🎯 **Goal:** Build impactful applications that solve real-world problems
+- 🤝 **Open To:** Collaborations, internships, and hackathon opportunities
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+build+something+amazing+together!;Happy+Coding!+✨" alt="Footer Message" />
+</div>
+
+<hr style="border: 1px solid #00D9FF;" />
+
+<div align="center">
+  <sub>⭐ If you find my work interesting, feel free to star my repositories and connect with me! ⭐</sub>
+</div>
